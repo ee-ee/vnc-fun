@@ -5,6 +5,7 @@ vnc-fun
 - vncsnapshot
 - masscan
 - nmap
+- perl
 
 ## Usage
 ```sudo ./scan-brazil.sh```
